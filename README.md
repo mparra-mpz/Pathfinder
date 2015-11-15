@@ -1,2 +1,2 @@
 # Pathfinder
-Repository for the robotic project
+Repository for the robotic Pathfinder project.
