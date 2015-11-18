@@ -1,3 +1,3 @@
 # Pathfinder
 
-Please visit the wiki project to get more information.
+In the wiki section you will find more information about this project.
