@@ -1,2 +1,3 @@
 # Pathfinder
-Repository for the robotic Pathfinder project.
+
+Please visit the wiki project to get more information.
