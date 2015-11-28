@@ -1,0 +1,4 @@
+QRD1114	KEYWORD1
+calibrateSensor	KEYWORD2
+readSignal	KEYWORD2
+getDirection	KEYWORD2
