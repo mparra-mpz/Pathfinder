@@ -6,12 +6,10 @@
  *      - Arduino Uno R3
  *      - DFRobot DF-MD V1.3
  *      - DFRobot Pirate 4WD
- * Description: This sketch will use as a movement test, first the rover
- * will go foward on the track, then it will go reverse, then will turn
- * to left and finally will turn to right. This sketch will show you the
- * if you connected the engines and batteries properly. Don't forget to
- * review the fritzing electronic diagram in the document section of the
- * project.
+ * Description: This library will control the rover
+ * movements with the materials previously described.
+ * Review the Fritzing electronic diagram in the doc
+ * section.
  * Link: https://github.com/mparra-mpz/Pathfinder
  */
 
