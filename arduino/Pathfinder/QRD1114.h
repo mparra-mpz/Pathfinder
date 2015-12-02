@@ -14,7 +14,6 @@
 #ifndef QRD1114_h
 #define QRD1114_h
 
-#include "Arduino.h"
 #include "Direction.h"
 
 class QRD1114

@@ -16,7 +16,6 @@
 #ifndef Pirate4WD_h
 #define Pirate4WD_h
 
-#include "Arduino.h"
 #include "Direction.h"
 
 class Pirate4WD
